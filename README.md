@@ -28,5 +28,7 @@ Soy desarrollador fullstack, me interesó el mundo de la programación desde que
  - HTML
  - CSS 
  - GIT
-### Repositorios
-https://github.com/ezequielnores/PF-GRUPO-2
+
+### No dudes en contactarme
+Gmail: ezequielnores17@gmail.com
+Linkedin: https://www.linkedin.com/in/jos%C3%ADas-ezequiel-nores-584411239/
