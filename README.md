@@ -14,5 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-######### ¿Que hago?
+### ¿Quien soy?
+Soy desarrollador fullstack, me interesó el mundo de la programación desde que tengo 16 años, amo aprender cosas nuevas cada día y crecer en experiencia y conocimiento.
+
+### ¿Qué tecnologías uso?
+ - JavaScript
+ - Express
+ - NodeJS
+ - PostgreSQL
+ - Sequelize
+ - React
+ - Redux
+ - HTML
+ - CSS 
+ - GIT
 
