@@ -31,3 +31,4 @@ Soy desarrollador fullstack, me interesó el mundo de la programación desde que
 
 ### No dudes en contactarme
 [Linkedin Profile](https://www.linkedin.com/in/jos%C3%ADas-ezequiel-nores-584411239/).
+Gmail: ezequielnores17@gmail.com
