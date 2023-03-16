@@ -28,4 +28,5 @@ Soy desarrollador fullstack, me interesó el mundo de la programación desde que
  - HTML
  - CSS 
  - GIT
-
+### Repositorios
+https://github.com/ezequielnores/PF-GRUPO-2
